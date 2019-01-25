@@ -1,0 +1,6 @@
+c:\users\shaheer ahmed\documents\visual studio 2013\Projects\ConsoleApplication77\ConsoleApplication77\bin\Debug\ConsoleApplication77.exe.config
+c:\users\shaheer ahmed\documents\visual studio 2013\Projects\ConsoleApplication77\ConsoleApplication77\obj\Debug\ConsoleApplication77.csprojResolveAssemblyReference.cache
+C:\Users\SHAHEER AHMED\Documents\Visual Studio 2013\Projects\ConsoleApplication77\ConsoleApplication77\bin\Debug\ConsoleApplication77.exe
+C:\Users\SHAHEER AHMED\Documents\Visual Studio 2013\Projects\ConsoleApplication77\ConsoleApplication77\bin\Debug\ConsoleApplication77.pdb
+C:\Users\SHAHEER AHMED\Documents\Visual Studio 2013\Projects\ConsoleApplication77\ConsoleApplication77\obj\Debug\ConsoleApplication77.exe
+C:\Users\SHAHEER AHMED\Documents\Visual Studio 2013\Projects\ConsoleApplication77\ConsoleApplication77\obj\Debug\ConsoleApplication77.pdb
