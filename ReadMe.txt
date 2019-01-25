@@ -7,3 +7,8 @@ Printing Array is also done in the Main Function.
 Time complexity of smooth sort  is as following 
 Best Case: O(n)
 Worst Case: O(nlogn)
+
+Group Members:
+Shaheer Ahmed    (17B-038-SE)
+Ahmed Raza       (17B-019-SE)
+Tauseef          (15B-113-SE)
